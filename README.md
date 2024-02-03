@@ -11,7 +11,7 @@ I will be using Support Vector Machine (SVM) model due to its high accuracy pred
 I have deployed this model as a web-app using streamlit. You can find the streamlit code in "app.py".
 
 The required library versions to run the app correctly are,
-numpy==1.26.3
-scikit-learn==1.3.2
-streamlit==1.29.0
-streamlit-option-menu==0.3.6
+numpy==1.26.3,
+scikit-learn==1.3.2,
+streamlit==1.29.0,
+streamlit-option-menu==0.3.6.
