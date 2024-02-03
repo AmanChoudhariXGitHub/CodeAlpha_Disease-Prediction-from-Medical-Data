@@ -8,6 +8,11 @@ I will be using datasets of 3 very common diseases those are,
 
 I will be using Support Vector Machine (SVM) model due to its high accuracy prediction even for non-numeric datatype.
 
+The accuracy of the prediction model for each disease is,
+1) Diabetes - 77.27%
+2) Heart Disease - 81.96%
+3) Parkinson's Disease - 87.17%
+
 I have deployed this model as a web-app using streamlit. You can find the streamlit code in "app.py".
 
 The required library versions to run the app correctly are,
